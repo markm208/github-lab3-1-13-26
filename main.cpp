@@ -19,11 +19,10 @@ int main()
 //--
 void printNameA_H()
 {
-
     cout<<"Luke Bloomer"<<endl;
     cout << " Somi Contreras " << endl;
     cout<<"Ryan Heffelman"<<endl;
-
+    cout<<"Tyler Liu"<<endl;
 }
 //--
 void printNameI_P()
