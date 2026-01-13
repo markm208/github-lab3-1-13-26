@@ -29,5 +29,5 @@ void printNameI_P()
 //--
 void printNameQ_Z()
 {
-    cout<<"None"<<endl;
+    cout<<"Timothy Fendrick"<<endl;
 }
