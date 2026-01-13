@@ -22,13 +22,17 @@ void printNameA_H()
     cout<<"Luke Bloomer"<<endl;
     cout << " Somi Contreras " << endl;
     cout<<"Ryan Heffelman"<<endl;
-    cout<<"Tyler Liu"<<endl;
 }
 //--
 void printNameI_P()
 {
+    cout<<"Alan Kwak"<<endl;
+    cout<<"Tyler Liu"<<endl;   
+    cout<<"Ro Longden"<<endl;
     cout<<"Buddy Mahoney"<<endl;
-    
+    cout<<"Joe Monnig"<<endl;
+    cout<<"Zack Noland"<<endl;
+    cout<<"Alexander Olivo"<<endl;
 }
 //--
 void printNameQ_Z()
