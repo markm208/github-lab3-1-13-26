@@ -24,6 +24,7 @@ void printNameA_H()
     cout<<"Jackson Bossart"<<endl;
     cout << " Somi Contreras " << endl;
     cout<<"Timothy Fendrick"<<endl;
+    cout<<"S.B. Heard"<<endl;
     cout<<"Ryan Heffelman"<<endl;
 }
 //--
